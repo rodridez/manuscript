@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+
+
+body {
+    color: #A58A77;
+    font-family: 'Manrope', sans-serif;
+    background-color: #111D32;
+}
+
+h1 {
+    font-size: 800%;
+    font-weight: 700;
+    line-height: 110%;
+    margin-bottom: 0.5em;
+    margin-top: 2em;
+    padding-right: 45%;
+    padding-left: 10%;
+}
+
+h2 {
+    font-size: 200%;
+    font-weight: 200;
+    line-height: 110%;
+    margin-bottom: 5.5em;
+    padding-right: 45%;
+    padding-left: 10%;
+}
+
+h3 {
+    font-size: 150%;
+    font-weight: 700;
+    line-height: 110%;
+    margin-top: 5.5em;
+    margin-bottom: 2em;
+    padding-right: 45%;
+    padding-left: 10%;
+}
+
+blockquote {
+    font-size: 300%;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    padding-right: 45%;
+    padding-left: 5%;
+}
+
+p {
+    font-size: 16pt;
+    line-height: 30pt;
+    margin-bottom: 2em;
+    padding-right: 45%;
+    padding-left: 10%;
+}
+
+a {
+    color: #CEB09B;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #FFCE21;
+}
+
+em {
+    font-style: italic;
+    font-weight: 100;
+}
+
+sup a {
+    font-size: 8pt;
+    color: #FFCE21;
+    vertical-align: super;
+    text-decoration: underline;
+    margin-right: 5px;
+}
+
+/* p:last-child {
+    padding-bottom: 30em;
+} */
+
+ol p {
+    font-size: 100%;
+    padding-left: 2%;
+    line-height: 200%;
+}
+
+li {
+    list-style: decimal;
+    margin-left: 10em;
+    margin-right: 0;
+    padding-left: -10%;
+}
+
+p::selection {
+    /* background-color: #957F70; */
+    color: #111D32;
+}
+
+#fade1 {
+    color: #957F70;
+}
+
+#fade2 {
+    color: #827167;
+}
+
+#fade3 {
+    color: #6F625E;
+}
+
+#fade4 {
+    color: #5B5455;
+}
+
+#fade5 {
+    color: #47454A;
+}
+
+#fade6 {
+    color: #333742;
+}
+
+#fade7 {
+    color: #202839;
+}
+
+
+
+
+
